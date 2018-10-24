@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 Python Pythonn
 Code is creative
 And so is nylon
+=======
+Python Python Python
+want me some Python
+Code is creativ
+And so is nylo
+goog food, good times, good u
+>>>>>>> featurel
